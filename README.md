@@ -8,11 +8,11 @@ The dataset used in this project is hosted externally due to GitHub’s storage 
 ### 📁 Dataset Structure
 After downloading, ensure the dataset is placed in the following directory:
 dataset/
-├── class_0/
-├── class_1/
-├── class_2/
-├── class_3/
-└── class_4/
+ class_0/
+ class_1/
+ class_2/
+ class_3/
+ class_4/
 
 - Each class folder contains **678 images**.
 - Total classes: **5**
