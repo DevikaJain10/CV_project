@@ -1,5 +1,5 @@
 # CV_project
-Analyzing the Impact of Dataset Size and Image Resolution on Robustness of Diabetic Retinopathy Classification
+# Analyzing the Impact of Dataset Size and Image Resolution on Robustness of Diabetic Retinopathy Classification
 ## 📂 Dataset
 
 The dataset used in this project is hosted externally due to GitHub’s storage limitations.
